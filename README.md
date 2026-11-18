@@ -40,5 +40,5 @@ Reach me at **[biplabkumarbhoi.code@gmail.com]** or connect on [LinkedIn](https:
 ---
 <div align="center">
 If you found something useful here, feel free to star a repo!
-Currently i don't have any but i am building it so stay tuned !
+Stay tuned !
 </div>
