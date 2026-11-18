@@ -15,22 +15,15 @@ Turning data into defense !
 ## About me
 
 I'm a Data Science & AI student who found his way into **cybersecurity**.  
-I'm fascinated by the overlap between the two fields — using data, statistics, and Python to detect threats hiding in logs and telemetry. My focus is **blue teaming**: SOC operations, threat detection, and detection engineering.
+I'm fascinated by the overlap between the two fields using data, statistics, and Python to detect threats hiding in logs and telemetry. My focus is **blue teaming**: SOC operations, threat detection, and detection engineering.
 
-I believe the future of security belongs to people who can turn massive volumes of noise into a clear signal — and that's the skill I'm building.
-
-## What I'm working with
-
-- **Languages:** Python, SQL, Bash, { web-dev_languages also }
-- **Security:** MITRE ATT&CK, Wireshark, Splunk / ELK, 
-- **Data:** pandas, NumPy, Matplotlib, scikit-learn
-- **Systems:** Linux, Git, Docker (learning)
+I believe the future of security belongs to people who can turn massive volumes of noise into a clear signal and that's the skill I'm building.
 
 ## Currently
 
 - Second-year BS DSAI student at IIM Sambalpur
 - Learning blue team fundamentals & detection engineering
-- Writing about what I learn, in public
+- Writing about what I will learn, in public
 
 ## Get in touch
 
@@ -40,5 +33,4 @@ Reach me at **[biplabkumarbhoi.code@gmail.com]** or connect on [LinkedIn](https:
 ---
 <div align="center">
 If you found something useful here, feel free to star a repo!
-Stay tuned !
 </div>
