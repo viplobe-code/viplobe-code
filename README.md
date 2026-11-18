@@ -22,7 +22,7 @@ I believe the future of security belongs to people who can turn massive volumes 
 ## Currently
 - Second-year BS DSAI student at IIM Sambalpur
 - Learning blue team fundamentals & detection engineering
-- Writing about what I will learn, in public
+- Writing about what I built, and learnt
 
 ## Get in touch
 
