@@ -14,7 +14,8 @@ Turning data into defense !
 
 ## About me
 
-I'm a Data Science & AI student who found his way into **cybersecurity**. I'm fascinated by the overlap between the two fields using data, statistics, and Python to detect threats hiding in logs and telemetry. My focus is **blue teaming**: SOC operations, threat detection, and network-security engineering.
+I'm a Data Science & AI student who found his way into **cybersecurity**. 
+I'm fascinated by the overlap between the two fields using data, statistics, and Python to detect threats hiding in logs and telemetry. My focus is **blue teaming**: SOC operations, threat detection, and network-security engineering.
 
 I believe the future of security belongs to people who can turn massive volumes of noise into a clear signal and that's the skill I'm building.
 
