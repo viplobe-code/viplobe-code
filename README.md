@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hy, I'm Biplab Kumar Bhoi
+# Hy, I'm Viplobe
 
 **Data Science & Artificial Intelligence | IIM Sambalpur**  
 Turning data into defense !
