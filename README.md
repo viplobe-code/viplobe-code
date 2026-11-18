@@ -2,7 +2,7 @@
 
 # Hi, I'm Biplab Kumar Bhoi
 
-**BS Data Science & AI @ IIM Sambalpur**  
+**Data Science & Artificial Intelligence**  
 Turning data into defense !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biplab-kumar-bhoi)
